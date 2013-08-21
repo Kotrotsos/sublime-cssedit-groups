@@ -1,10 +1,10 @@
 sublime-cssedit-groups
 ======================
 
-Sublime Text plugin to make ST users like CSS Edit users a bit more. 
+Sublime Text plugin to make ST users work together with CSS Edit users. 
 
 Because i'm somewhat lazy, I didn't go through the process of adding this to the package repository. 
-Just create a new folder inside your /packages folder, and copy the file into that folder.
+Use package control, or create a new folder inside your /packages folder, and copy the file into that folder.
 
 add
 
