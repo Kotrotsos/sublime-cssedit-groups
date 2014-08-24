@@ -14,4 +14,6 @@ add
 Whenever you are inside a CSS file that contains CSS edit's Group information (like `/* @group Headings */` ) 
 press command+l and you will be presented with a navigation list to jump around with in the CSS file. 
 
+Update: Also works for Sublime Text 3 now. 
+
 
